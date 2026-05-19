@@ -1,4 +1,4 @@
-# SJSU_BOOKREVIEW
+# SJSU_BookReview
 
 Supabase, Gemini CLI 활용
 
